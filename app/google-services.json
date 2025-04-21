@@ -1,0 +1,351 @@
+{
+  "project_info": {
+    "project_number": "37871683808",
+    "firebase_url": "https://bearound-e4692-default-rtdb.firebaseio.com",
+    "project_id": "bearound-e4692",
+    "storage_bucket": "bearound-e4692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37871683808:android:ba78c726773c1974ca6885",
+        "android_client_info": {
+          "package_name": "com.chandra.bearound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37871683808-faajbd3325u9lgq3oj3e6i2ru0i74vvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chandra.bearound",
+            "certificate_hash": "0640272bfdb1dc60f85bbcee0d57d8a71e442c59"
+          }
+        },
+        {
+          "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mf--PNyvcDp1Ou_hZltYdQZm9BnF4dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37871683808-d3uqdrce0hrd556mnnrqu7kmdp1j0vpd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chandra.bearound"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37871683808:android:f770f601c1a83a63ca6885",
+        "android_client_info": {
+          "package_name": "com.chandra.minchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mf--PNyvcDp1Ou_hZltYdQZm9BnF4dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37871683808-d3uqdrce0hrd556mnnrqu7kmdp1j0vpd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chandra.bearound"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37871683808:android:fa2ca33958226d89ca6885",
+        "android_client_info": {
+          "package_name": "com.chandra.minmatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37871683808-de0uoqcm8tas0j1skvu8j5v6kai7o6g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chandra.minmatch",
+            "certificate_hash": "0640272bfdb1dc60f85bbcee0d57d8a71e442c59"
+          }
+        },
+        {
+          "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mf--PNyvcDp1Ou_hZltYdQZm9BnF4dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37871683808-d3uqdrce0hrd556mnnrqu7kmdp1j0vpd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chandra.bearound"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37871683808:android:afc2e4b012de2a37ca6885",
+        "android_client_info": {
+          "package_name": "com.chandra.recall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mf--PNyvcDp1Ou_hZltYdQZm9BnF4dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37871683808-d3uqdrce0hrd556mnnrqu7kmdp1j0vpd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chandra.bearound"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37871683808:android:29fab90c59e1ee31ca6885",
+        "android_client_info": {
+          "package_name": "com.chandra.recallaiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mf--PNyvcDp1Ou_hZltYdQZm9BnF4dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37871683808-d3uqdrce0hrd556mnnrqu7kmdp1j0vpd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chandra.bearound"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37871683808:android:39b1f5b3ed8a1b86ca6885",
+        "android_client_info": {
+          "package_name": "com.chandra.recallaiback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mf--PNyvcDp1Ou_hZltYdQZm9BnF4dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37871683808-d3uqdrce0hrd556mnnrqu7kmdp1j0vpd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chandra.bearound"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37871683808:android:fff3b780fb1a7d65ca6885",
+        "android_client_info": {
+          "package_name": "com.chandra.walkby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mf--PNyvcDp1Ou_hZltYdQZm9BnF4dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37871683808-d3uqdrce0hrd556mnnrqu7kmdp1j0vpd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chandra.bearound"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37871683808:android:53e188f2208502c3ca6885",
+        "android_client_info": {
+          "package_name": "com.example.recallaiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mf--PNyvcDp1Ou_hZltYdQZm9BnF4dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37871683808-d3uqdrce0hrd556mnnrqu7kmdp1j0vpd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chandra.bearound"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37871683808:android:6452051fd7d3cce5ca6885",
+        "android_client_info": {
+          "package_name": "com.yourcompany.minmatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mf--PNyvcDp1Ou_hZltYdQZm9BnF4dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37871683808-8rthc3lkltmo961bvfb0bo848gq02l2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37871683808-d3uqdrce0hrd556mnnrqu7kmdp1j0vpd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chandra.bearound"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
